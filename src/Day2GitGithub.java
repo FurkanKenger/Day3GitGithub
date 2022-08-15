@@ -16,9 +16,12 @@ public class Day2GitGithub {
     kullanırız.
     Not: git log --oneline --> Commitlerimdeki yani versiyonlarımdaki durumu gösterir.
     Not: Github ogrendim
+    Not: Github cok eglenceli
     6-) git pull --> Remote (yani uzak repo) dosyalarımızı güncellemek için kullanılır
     */
 
-
+    public static void main(String[] args) {
+        System.out.println("Branch deneme 1");
+    }
     }
 
