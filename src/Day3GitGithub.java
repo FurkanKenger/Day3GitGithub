@@ -1,3 +1,5 @@
+package Day3GitGithub.src;
+
 public class Day3GitGithub {
     public static void main(String[] args) {
         System.out.println("3. gün 1. Deneme");
